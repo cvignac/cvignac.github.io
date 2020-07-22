@@ -4,7 +4,7 @@ collection: teaching
 type: "Master Course course"
 permalink: /teaching/2014-spring-teaching-1.md
 venue: "EPFL"
-date: 2019
+date: 2019-01-01
 location: "City, Country"
 ---
 test
