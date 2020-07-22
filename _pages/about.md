@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,4 +15,6 @@ I am Clément Vignac, a PhD student at EPFL, Switzerland. I work in LTS4 under t
 Before joining EPFL, I graduated from École Polytechnique and École Normale Supérieure de Paris-Saclay (master MVA - Mathematiques, Vision, Learning) in 2018. I completed my master thesis on structured prediction in LCSL, Genoa (Italy) under the supervision of Alessandro Rudi and Lorenzo Rosasco.
 
 News:
-  - July 2020 - Our new paper on powerful graph neural networks is available. [Clément Vignac, Adreas Loukas and Pascal Frossard - Building powerful and equivariant graph neural networks with structural message-passing]: https://arxiv.org/abs/2006.15107
+  - July 2020 - Our new paper on powerful graph neural networks is available
+  
+   Clément Vignac, Andreas Loukas and Pascal Frossard - Building powerful and equivariant graph neural networks with structural message-passing]: https://arxiv.org/abs/2006.15107
