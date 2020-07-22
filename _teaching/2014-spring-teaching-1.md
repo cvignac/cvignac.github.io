@@ -2,12 +2,12 @@
 title: "A network tour of Data Science"
 collection: teaching
 type: "Master Course course"
-permalink: /teaching/NTDS2019
+permalink: /teaching/2014-spring-teaching-1.md
 venue: "EPFL"
 date: 2019
 location: "City, Country"
 ---
-
+test
 
 Heading 1
 ======
