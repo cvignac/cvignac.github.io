@@ -16,7 +16,7 @@ Before joining EPFL, I graduated from École Polytechnique and École Normale Su
 
 Selected paper:
   
-   [Clément Vignac, Andreas Loukas and Pascal Frossard - Building powerful and equivariant graph neural networks with structural message-passing (Neurips 2020)](https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html "SMP")
+  Clément Vignac, Andreas Loukas and Pascal Frossard - [Building powerful and equivariant graph neural networks with structural message-passing ](https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html "SMP")(Neurips 2020)
 
 
 For a full list of publications, look at my [Google scholar page](https://scholar.google.com/citations?user=eKJLfHQAAAAJ&hl=fr&oi=ao "Scholar").
