@@ -16,6 +16,8 @@ Before joining EPFL, I graduated from École Polytechnique and École Normale Su
 
 ### Selected papers:
 
+  Emiel Hoogeboom*, Victor Garcia Satorras*, Clément Vignac*, Max Welling - [Equivariant diffusion for molecule generation in 3D](https://arxiv.org/pdf/2203.17003.pdf) (ICML 2022 long presentation)
+
   Clément Vignac, Pascal Frossard - [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk) (ICLR 2022)
   
   Clément Vignac, Andreas Loukas and Pascal Frossard - [Building powerful and equivariant graph neural networks with structural message-passing ](https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html "SMP")(Neurips 2020)
