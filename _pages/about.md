@@ -16,7 +16,9 @@ Before joining EPFL, I graduated from École Polytechnique and École Normale Su
 
 ### Selected papers:
 
-  Emiel Hoogeboom*, Victor Garcia Satorras*, Clément Vignac*, Max Welling - [Equivariant diffusion for molecule generation in 3D](https://arxiv.org/pdf/2203.17003.pdf) (ICML 2022 long presentation)
+  Clément Vignac * , Igor Krawczuk * , Antoine Siraudin, Bohan Wang, Vokan Cevher, Pascal Frossard - [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) (under review)
+
+  Emiel Hoogeboom * , Victor Garcia Satorras * , Clément Vignac * , Max Welling - [Equivariant diffusion for molecule generation in 3D](https://arxiv.org/pdf/2203.17003.pdf) (ICML 2022 long presentation)
 
   Clément Vignac, Pascal Frossard - [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk) (ICLR 2022)
   
