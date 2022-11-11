@@ -11,4 +11,4 @@ author_profile: true
 {% include base_path %}
 
 
-[Download my CV here](http://cvignac.github.io/files/CV_2021.pdf)
+[Download my CV here](http://cvignac.github.io/files/CV_2022.pdf)
