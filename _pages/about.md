@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**I will graduate in June 2023, and I am currently looking for opportunities after my PhD. If you are interested in my profile, reach out to me!.**
 
 I am Clément Vignac, a PhD student at EPFL, Switzerland. I work in LTS4 under the supervision of Pascal Frossard. I study ways to make neural networks more data efficient by incorporating in our models prior knowledge about symmetries of a problem. I mostly focus on neural networks for sets and graphs, for which the symmetry group is the set of permutations of the elements.
 
@@ -16,7 +17,7 @@ Before joining EPFL, I graduated from École Polytechnique and École Normale Su
 
 ### Selected papers:
 
-  Clément Vignac * , Igor Krawczuk * , Antoine Siraudin, Bohan Wang, Vokan Cevher, Pascal Frossard - [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) (under review)
+  Clément Vignac * , Igor Krawczuk * , Antoine Siraudin, Bohan Wang, Vokan Cevher, Pascal Frossard - [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) (ICLR 2023)
 
   Emiel Hoogeboom * , Victor Garcia Satorras * , Clément Vignac * , Max Welling - [Equivariant diffusion for molecule generation in 3D](https://arxiv.org/pdf/2203.17003.pdf) (ICML 2022 long presentation)
 
