@@ -16,7 +16,7 @@ Before joining EPFL, I graduated from École Polytechnique and École Normale Su
 
 ### First author papers:
 
-  Clément Vignac, Nagham Osman, Laura Toni, Pascal Frossard - [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) (preprint)
+  Clément Vignac, Nagham Osman, Laura Toni, Pascal Frossard - [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) (ECML 2023)
 
   Clément Vignac * , Igor Krawczuk * , Antoine Siraudin, Bohan Wang, Vokan Cevher, Pascal Frossard - [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) (ICLR 2023)
 
