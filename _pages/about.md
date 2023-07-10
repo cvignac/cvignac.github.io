@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I will graduate in June 2023, and I am currently looking for opportunities after my PhD. If you are interested in my profile, reach out to me!**
+**I have just graduated from my PhD, and I am currently looking for opportunities both in academia and industry. If you are interested in my profile, reach out to me!**
 
 I am Clément Vignac, a PhD student at EPFL, Switzerland. I work in LTS4 under the supervision of Pascal Frossard. I work on graph neural networks and generative models for point clouds and graphs. I develop denoising diffusion models that respect predefined symmetries, and study how the data representation (vector, point cloud or graph) affects learning.
 
