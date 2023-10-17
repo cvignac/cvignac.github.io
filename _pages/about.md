@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**I have just graduated from my PhD, and I am currently looking for opportunities both in academia and industry. If you are interested in my profile, reach out to me!**
+I am a researcher in generative AI for point cloud and graph data. I have just completed my PhD at EPFL under the guidance of Pascal Frossard and co-supervision of Max Welling within the ELLIS program. During my PhD, I developed several denoising diffusion models for molecules, namely EDM, DiGress and MiDi. 
 
-I am Clément Vignac, a PhD student at EPFL, Switzerland. I work in LTS4 under the supervision of Pascal Frossard. I work on graph neural networks and generative models for point clouds and graphs. I develop denoising diffusion models that respect predefined symmetries, and study how the data representation (vector, point cloud or graph) affects learning.
-
-Before joining EPFL, I graduated from École Polytechnique and École Normale Supérieure de Paris-Saclay (master MVA - Mathematics, Vision and Learning) in 2018. I completed my master thesis on structured prediction in LCSL, Genoa (Italy) under the supervision of Alessandro Rudi and Lorenzo Rosasco.
+Before that, I graduated from École Polytechnique and École Normale Supérieure de Paris-Saclay (master MVA - Mathematics, Vision and Learning) in 2018. I completed my master thesis on structured prediction in LCSL, Genoa (Italy) under the supervision of Alessandro Rudi and Lorenzo Rosasco.
 
 ### First author papers:
 
