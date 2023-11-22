@@ -12,7 +12,9 @@ I am a researcher in generative AI for point cloud and graph data. I have just c
 
 Before that, I graduated from École Polytechnique and École Normale Supérieure de Paris-Saclay (master MVA - Mathematics, Vision and Learning) in 2018. I completed my master thesis on structured prediction in LCSL, Genoa (Italy) under the supervision of Alessandro Rudi and Lorenzo Rosasco.
 
-### First author papers:
+### Selection of papers:
+
+  Yiming Qin, Clément Vignac, Pascal Frossard - [Sparse Training of Discrete Diffusion Models for Graph Generation](https://arxiv.org/abs/2311.02142) (Arxiv)
 
   Clément Vignac, Nagham Osman, Laura Toni, Pascal Frossard - [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) (ECML 2023)
 
