@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in generative AI for point cloud and graph data. I have just completed my PhD at EPFL under the guidance of Pascal Frossard and co-supervision of Max Welling within the ELLIS program. During my PhD, I developed several denoising diffusion models for molecules, namely EDM, DiGress and MiDi. 
+I am a researcher at [Isomorphic Labs](https://www.isomorphiclabs.com/). I have completed my PhD at EPFL in 2023 under the guidance of Pascal Frossard. During my PhD, I developed several denoising diffusion models for molecules and graphs in general, namely EDM, DiGress, MiDi and SparseDiff. 
+Before that, I graduated from École Polytechnique and École Normale Supérieure de Paris-Saclay (master MVA - Mathematics, Vision and Learning).
 
-Before that, I graduated from École Polytechnique and École Normale Supérieure de Paris-Saclay (master MVA - Mathematics, Vision and Learning) in 2018. I completed my master thesis on structured prediction in LCSL, Genoa (Italy) under the supervision of Alessandro Rudi and Lorenzo Rosasco.
+My research interests lie in the representation and generation of unordered data (point clouds and graphs), with a particular focus on molecules. 
 
 ### Selection of papers:
 
-  Yiming Qin, Clément Vignac, Pascal Frossard - [Sparse Training of Discrete Diffusion Models for Graph Generation](https://arxiv.org/abs/2311.02142) (Arxiv)
+  Yiming Qin, Clément Vignac, Pascal Frossard - [Sparse Training of Discrete Diffusion Models for Graph Generation](https://arxiv.org/abs/2311.02142) (ArXiv)
 
   Clément Vignac, Nagham Osman, Laura Toni, Pascal Frossard - [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) (ECML 2023)
 
