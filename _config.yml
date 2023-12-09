@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clément Vignac's personal page"
 title_separator          : "-"
 name                     : &name "Clément Vignac"
-description              : &description "I am a PhD student in LTS4, EPFL working on group invariance and graph neural networks under the supervison of Pascal Frossard."
+description              : &description "Research scientist at Isomorphic Labs."
 url                      : https://cvignac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cvignac/cvignac.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Clément Vignac"
   avatar           : "bio-photo.jpg"
-  bio              : "I am a PhD student in LTS4, EPFL. I work on group invariance and graph neural networks."
+  bio              : "I am a research scientist at Isomorphic labs."
   location         : "Lausanne, Switzerland"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HmmK8okAAAAJ&hl=en&num=20&oi=ao"
-  email            : clement.vignac@epfl.ch
+  email            : "vignac.clement@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # https://stackoverflow.com/users/6093995/cl%c3%a9ment-vgnc
   steam            :
   tumblr           :
-  twitter          : "ClementVignac"
+  # twitter          : "ClementVignac"
   vine             :
   weibo            :
   xing             :
