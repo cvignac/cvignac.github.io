@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Isomorphic Labs](https://www.isomorphiclabs.com/). I have completed my PhD at EPFL in 2023 under the guidance of Pascal Frossard. During my PhD, I developed several denoising diffusion models for molecules and graphs in general, namely EDM, DiGress, MiDi and SparseDiff. 
-Before that, I studied at École Polytechnique and ENS Paris-Saclay in France (master MVA - Mathematics, Vision and Learning).
+I am a researcher at [Isomorphic Labs](https://www.isomorphiclabs.com/), working on generative models for therapeutics design. 
+I hold a PhD from EPFL (2023), where I studied under the guidance of Pascal Frossard and developed several denoising diffusion models for molecules and graphs in general.
+Before that, I studied in France at École Polytechnique and ENS Paris-Saclay (master MVA - Mathematics, Vision and Learning).
 
-My research interests lie in the representation and generation of unordered data (point clouds and graphs), with a particular focus on molecules. 
 
 ### Selection of papers:
 
