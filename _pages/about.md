@@ -15,17 +15,17 @@ Before that, I studied in France at École Polytechnique and ENS Paris-Saclay (m
 
 ### Selection of papers:
 
-  Yiming Qin, Clément Vignac, Pascal Frossard - [Sparse Training of Discrete Diffusion Models for Graph Generation](https://arxiv.org/abs/2311.02142) (ArXiv)
+  Manuel Madeira, C.V., Dorina Thanou, Pascal Frossard - [Generative modelling of structurally constrained graphs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f82385b8804009f9a81e1a30f1ff14e3-Abstract-Conference.html) (NeurIPS 2024)
 
-  Clément Vignac, Nagham Osman, Laura Toni, Pascal Frossard - [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) (ECML 2023)
+  C.V., Nagham Osman, Laura Toni, Pascal Frossard - [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/abs/2302.09048) (ECML 2023)
 
-  Clément Vignac * , Igor Krawczuk * , Antoine Siraudin, Bohan Wang, Vokan Cevher, Pascal Frossard - [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) (ICLR 2023)
+  C.V. * , Igor Krawczuk * , Antoine Siraudin, Bohan Wang, Vokan Cevher, Pascal Frossard - [DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734) (ICLR 2023)
 
-  Emiel Hoogeboom * , Victor Garcia Satorras * , Clément Vignac * , Max Welling - [Equivariant diffusion for molecule generation in 3D](https://arxiv.org/pdf/2203.17003.pdf) (ICML 2022 long presentation)
+  Emiel Hoogeboom * , Victor Garcia Satorras * , C.V. * , Max Welling - [Equivariant diffusion for molecule generation in 3D](https://arxiv.org/pdf/2203.17003.pdf) (ICML 2022 long presentation)
 
-  Clément Vignac, Pascal Frossard - [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk) (ICLR 2022)
+  C.V., Pascal Frossard - [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk) (ICLR 2022)
   
-  Clément Vignac, Andreas Loukas and Pascal Frossard - [Building powerful and equivariant graph neural networks with structural message-passing ](https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html "SMP")(NeurIPS 2020)
+  C.V., Andreas Loukas and Pascal Frossard - [Building powerful and equivariant graph neural networks with structural message-passing ](https://papers.nips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html "SMP")(NeurIPS 2020)
 
 ### Full list
 For a full list of publications, look at my [Google scholar page](https://scholar.google.com/citations?user=eKJLfHQAAAAJ&hl=fr&oi=ao "Scholar").
